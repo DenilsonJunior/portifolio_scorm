@@ -1,0 +1,27 @@
+[
+	{
+		"pt-br": {
+			"link01": {
+				"href": "https://www.dev.com.br/",
+                "class": "",
+                "ariaLabel": "Site PT"
+			}
+		},
+
+		"en-us": {
+			"link01": {
+				"href": "https://www.dev.com.br/en",
+                "class": "",
+                "ariaLabel": "Site EN"
+			}
+		},
+
+		"es": {
+			"link01": {
+				"href": "https://www.dev.com.br/es",
+                "class": "",
+                "ariaLabel": "Site ES"
+			}
+		}
+	}
+]
